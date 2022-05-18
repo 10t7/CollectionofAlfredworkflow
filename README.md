@@ -1,0 +1,2 @@
+# CollectionofAlfredworkflow
+自己使用的workflow
