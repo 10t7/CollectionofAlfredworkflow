@@ -1,4 +1,4 @@
 # CollectionofAlfredworkflow
 自己使用的workflow
 下载直接拖到Alfred的workflow即可完成导入
-使用比较简单，根据keywork基本能猜出来
+使用比较简单，keyword的title有简单描述
